@@ -1,7 +1,7 @@
 # program-1c
 C module 1
 
-EX NO-1)a)- Finding ASCII value of a given character.
+EX NO-1)c)- Finding ASCII value of a given character.
 
 Date: 26/03/26
 Name: JADEN SAMUEL ABRAHAM
