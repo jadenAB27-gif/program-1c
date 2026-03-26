@@ -1,11 +1,11 @@
-# program-1a
+# program-1c
 C module 1
 
 EX NO-1)a)- Finding ASCII value of a given character.
 
-Date:19/10/2025
-Name: VASANTH S
-Ref no: 25017538
+Date: 26/03/26
+Name: JADEN SAMUEL ABRAHAM
+Ref no: 25003451
 
 AIM:
 Write a C program to find the ASCII value of a given character
